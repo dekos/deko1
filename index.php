@@ -1,2 +1,3 @@
 <?php
-echo 'Deko1';
+echo 'Deko1'.'<br>';
+echo 44;
